@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HI&nbsp;😎%20%20&fontSize=52&animation=fadeIn&fontAlignY=42&fontAlign=86&fontColor=ffffff">
 
-### 🛠 Stack 🛠
+### 🚀 Skills 🚀
 
 ![React Logo](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=black)
 ![TypeScript Logo](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=black)
