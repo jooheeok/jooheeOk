@@ -17,5 +17,10 @@
 ![Styled-Components Logo](https://img.shields.io/badge/-styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Tailwind CSS Logo](https://img.shields.io/badge/-Tailwind_CSS-38b2ac?style=flat&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/UI-000000?style=flat&logo=shadcn-ui&logoColor=white)
-
+<!-- 
+### 📚 I'm learning 📚 
+![Java](https://img.shields.io/badge/-Java-f89820?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
+-->
 </div>
